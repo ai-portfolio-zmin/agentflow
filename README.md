@@ -1,9 +1,8 @@
 AgentFlow – Resumable Agent System for Stock Analysis
 Overview
 
-AgentFlow is a production-style agent orchestration system that answers natural-language stock analysis questions using explicit planning, deterministic execution, validation, and persistent state.
+AgentFlow is a agent orchestration system that answers natural-language stock analysis questions using explicit planning, deterministic execution, validation, and persistent state.
 
-This project is not a simple “LLM with tools” demo.
 It demonstrates how to build a real agent system with:
 
 structured planning
